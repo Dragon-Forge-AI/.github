@@ -21,7 +21,7 @@ Dragon's Forge AI is an advanced engineering and intelligence firm based in Card
 
 | Repo | Description | Access |
 |------|-------------|--------|
-| [](https://github.com/Dragon-Forge-AI/dragons-forge-press) | 8 books by Chris Jenkins. Manuscripts, covers, epub build pipelines, website. | Public |
+| [`dragons-forge-press`](https://github.com/Dragon-Forge-AI/dragons-forge-press) | 8 books by Chris Jenkins. Manuscripts, covers, epub build pipelines, website. | Public |
 
 **Catalogue:** The Anvil · The Forges of the Gods · The Conscience Machine · The Great Restoration · The Sovereign School · The Unconquerable Kingdom · The Waking Dragon · The Alchemist's Grimoire
 
@@ -31,8 +31,8 @@ Dragon's Forge AI is an advanced engineering and intelligence firm based in Card
 
 | Repo | Description | Access |
 |------|-------------|--------|
-| [](https://github.com/Dragon-Forge-AI/awen-app) | Awen AI assistant — React/TypeScript/Capacitor mobile + web app | Private |
-| [](https://github.com/Dragon-Forge-AI/quantum-coherence-kernel) | AI agent immune system built on Shannon entropy. Prevents hallucinations before tool execution. | Private |
+| [`awen-app`](https://github.com/Dragon-Forge-AI/awen-app) | Awen AI assistant — React/TypeScript/Capacitor mobile + web app | Private |
+| [`quantum-coherence-kernel`](https://github.com/Dragon-Forge-AI/quantum-coherence-kernel) | AI agent immune system built on Shannon entropy. Prevents hallucinations before tool execution. | Private |
 
 ---
 
@@ -40,7 +40,7 @@ Dragon's Forge AI is an advanced engineering and intelligence firm based in Card
 
 | Repo | Description | Access |
 |------|-------------|--------|
-| [](https://github.com/Dragon-Forge-AI/awen-protocol) | Founding protocols, manifestos, patents, Gemini deep-magic scrolls, and the master portfolio index across all 18+ projects. | Private |
+| [`awen-protocol`](https://github.com/Dragon-Forge-AI/awen-protocol) | Founding protocols, manifestos, patents, Gemini deep-magic scrolls, and the master portfolio index across all 18+ projects. | Private |
 
 ---
 
@@ -48,7 +48,7 @@ Dragon's Forge AI is an advanced engineering and intelligence firm based in Card
 
 | Repo | Description | Access |
 |------|-------------|--------|
-| [](https://github.com/Dragon-Forge-AI/forgenet-engines) | Engine Technology Division — hypercar, marine, aviation, deep-space, energy, robotics, and PAV powertrains. Simulations, dossiers, and shared platform specs. | Private |
+| [`forgenet-engines`](https://github.com/Dragon-Forge-AI/forgenet-engines) | Engine Technology Division — hypercar, marine, aviation, deep-space, energy, robotics, and PAV powertrains. Simulations, dossiers, and shared platform specs. | Private |
 
 **Programmes:** Inferno T2200 · Chimera R2 Marine · Chimera T1 Turbine · Sovereign Hybrid · Titan TF110 · Wyvern OF120 · Tempest TP800 · Chimera H150 · Vortex Cyclonic · Atom Micro-Generator · Crucible AP1 · Stellaris Aura
 
@@ -58,7 +58,7 @@ Dragon's Forge AI is an advanced engineering and intelligence firm based in Card
 
 | Repo | Description | Access |
 |------|-------------|--------|
-| [](https://github.com/Dragon-Forge-AI/forgenet-health) | Open source tools for global health. Malaria diagnostics, outbreak mapping, last-mile logistics, medical robotics. | Private |
+| [`forgenet-health`](https://github.com/Dragon-Forge-AI/forgenet-health) | Open source tools for global health. Malaria diagnostics, outbreak mapping, last-mile logistics, medical robotics. | Private |
 
 ---
 
@@ -66,7 +66,7 @@ Dragon's Forge AI is an advanced engineering and intelligence firm based in Card
 
 | Repo | Description | Access |
 |------|-------------|--------|
-| [](https://github.com/Dragon-Forge-AI/cymru-compass) | Cymru Compass — Welsh business directory, scraper, and web app. Deffroad Cymru. | Private |
+| [`cymru-compass`](https://github.com/Dragon-Forge-AI/cymru-compass) | Cymru Compass — Welsh business directory, scraper, and web app. Deffroad Cymru. | Private |
 
 ---
 
@@ -74,12 +74,14 @@ Dragon's Forge AI is an advanced engineering and intelligence firm based in Card
 
 Six AI-autonomous vessels designed in OpenSCAD, every ship run by Dragon's Eye OS.
 
- ·  ·  ·  ·  · 
+`Jenkins Dragon` · `Project Sovereign` · `Nightingale` · `Talon` · `Kraken` · `Spectre`
+
 ## Space & Aviation
 
 Bimodal nuclear thermal propulsion. Acoustic levitation Martian smelting. Blended wing-body luxury eVTOL. Autonomous construction drone swarm.
 
- ·  ·  · 
+`Prometheus-X` · `Ferrum` · `Archangel eVTOL` · `Myrmidon Swarm`
+
 ## Quantum Computing
 
 The Dragon's Scale — a portable hybrid quantum computer fabricated entirely by the South Wales semiconductor cluster. Isotopically pure Silicon-28, phononic fractal etch, Stirling cryocooler, 4 Kelvin.
